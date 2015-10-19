@@ -1,4 +1,6 @@
 {
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "name": "z-rosenthal/slim-plus",
     "description": "A Slim Framework skeleton application for rapid development",
     "keywords": ["microframework","rest","router", "Eloquent"],
