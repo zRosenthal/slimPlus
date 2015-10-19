@@ -1,5 +1,5 @@
 {
-    "name": "slim/slim-plus",
+    "name": "zslim/slim-plus",
     "description": "A Slim Framework skeleton application for rapid development",
     "keywords": ["microframework","rest","router", "Eloquent"],
     "homepage": "http://github.com/zRosenthal/slimPlus",
